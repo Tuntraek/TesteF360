@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1611078643 source:c:\projects\cpp\teste\testeklingonvaga\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<unordered_map>
+	<math.h>
+	<vector>
+	<algorithm>
+
